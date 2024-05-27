@@ -1,1 +1,4 @@
-secret.txt
+/packages
+secret.js
+*.txt
+log*
